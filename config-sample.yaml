@@ -1,0 +1,9 @@
+santas_file: "santas.json"
+
+nb_gifts: 2
+
+mail:
+  address: ""
+  password: ""
+  smtp: ""  # for outlook/hotmail: smtp-mail.outlook.com
+  port: 1
